@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
 
 ## Introduction
@@ -18,3 +19,6 @@ Alongside building this application, you'll also learn how to:
 3. Run the application: `npm run dev`
 4. Visit `http://localhost:3000/` in your browser
 
+=======
+# warcities_development
+>>>>>>> 968e0981b2b07d30f514fb59b0557e90a5f7e1ad
